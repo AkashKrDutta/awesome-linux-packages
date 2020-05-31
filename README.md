@@ -1,6 +1,6 @@
 # A place to find some less known, awesome linux packages
 
-Welcome to awesom-linux-package, where most common issues in linux are resolved using some less-known, but awesome packages!
+Welcome to awesome-linux-packages, where most common issues in linux are resolved using some less-known, but awesome packages!
 
 Example configs are stored in the folders specified by their names.
 
